@@ -1,10 +1,86 @@
+# Competitive Programming and Algorithmic Solutions
 
-### About Me
+![Competitive Programming Banner](./images/banner.png)
 
-I am a final-year **Computer Science and Engineering (CSE)** student at **MNNIT Allahabad (Motilal Nehru National Institute of Technology, Allahabad)**, with a keen interest in **Artificial Intelligence (AI)**, **competitive programming**, and **mobile app development**. Throughout my academic career, I have honed my skills in **machine learning**, **data science**, and **algorithm design**, and have actively participated in numerous competitive programming contests, improving my problem-solving abilities and algorithmic thinking.
+## About Me
+Hello! I'm **Shiva Jee** (Reg. No: 20214288), a passionate problem solver from the CSE department with a knack for tackling algorithmic challenges and optimizing code. I am an **Expert on Codeforces**, a **4-star coder on CodeChef**, and a **Knight on LeetCode**.
 
-In addition to my passion for AI, I have developed and deployed several **Android** and **iOS** applications, gaining hands-on experience in **mobile app development**. My experience with tools like **Java**, **Kotlin**, **Flutter**, and **Swift** has helped me create intuitive and efficient applications that cater to real-world needs. I am particularly interested in exploring how AI can be integrated into mobile platforms to create intelligent, user-friendly applications.
+In 2024, I:
+- Achieved **Expert Coder Program** recognition on the Outlier Platform.
+- Ranked **5296 globally** in the **Meta Hacker Cup**.
+- Secured **808th globally** in the **ICPC 2024 Preliminary Contest**.
 
-As a **competitive programmer**, I have developed strong analytical and coding skills, regularly solving challenges on platforms like **Codeforces**, **LeetCode**, and **Codechef**. These experiences have not only sharpened my coding skills but also taught me how to approach complex problems with a methodical mindset.
+This repository is a curated collection of my solutions to competitive programming problems, algorithmic challenges, and project-based learning initiatives.
 
-As I near the end of my undergraduate studies, I am excited to apply my diverse skill set in AI, mobile app development, and problem-solving to contribute to innovative projects and solve meaningful real-world challenges.
+---
+
+## Features
+- **Structured Solutions**: Organized by platform (Codeforces, CodeChef, LeetCode, etc.) and problem topics.
+- **Algorithm Mastery**: Covers advanced algorithms like Dynamic Programming, Graph Theory, Segment Trees, and more.
+- **Competitive Programming Insights**: Includes explanations, edge-case handling, and time complexity analysis for selected problems.
+
+---
+
+## Directory Structure
+```plaintext
+├── Codeforces/  
+│   ├── Div2/  
+│   ├── Div3/  
+│   ├── Educational/  
+├── CodeChef/  
+│   ├── LongChallenge/  
+│   ├── CookOff/  
+│   ├── Lunchtime/  
+├── LeetCode/  
+│   ├── Arrays/  
+│   ├── Graphs/  
+│   ├── DP/  
+├── ICPC/  
+│   ├── Regionals/  
+│   ├── Practice/  
+├── MetaHackerCup/  
+│   ├── Qualifiers/  
+│   ├── Round1/  
+```
+
+---
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ShivaJee/Competitive-Programming.git
+   ```
+2. Navigate to the relevant directory for the platform or topic you're exploring.
+3. Review solutions, problem descriptions, and explanations.
+
+---
+
+## Technologies Used
+- **Languages**: C++, Python
+- **Platforms**: Codeforces, CodeChef, LeetCode, ICPC, Meta Hacker Cup
+
+---
+
+## Achievements Highlighted in the Repository
+- **Codeforces**: Expert-level problems with edge case handling.
+- **CodeChef**: Solutions to contests achieving 4-star rating.
+- **LeetCode**: Optimized solutions for Knight-level challenges.
+- **Meta Hacker Cup & ICPC**: Competitive solutions that secured global rankings.
+
+---
+
+## Contributing
+Want to collaborate or improve a solution?
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Open a pull request with details about your changes.
+
+---
+
+## Contact Me
+- **Email**: [shiva.20214288@mnnit.ac.in](mailto:shiva.20214288@mnnit.ac.in)
+- **GitHub**: [ShivaJee](https://github.com/ShivaJee)
+- **Codeforces**: [ShivaJeeCF](https://codeforces.com/profile/ShivaJeeCF)
+- **LeetCode**: [ShivaJeeLC](https://leetcode.com/ShivaJeeLC)
+
+Let’s connect and solve more challenges together!

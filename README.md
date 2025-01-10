@@ -1,7 +1,8 @@
 
 # Competitive Programming and Algorithmic Solutions
 
-![Competitive Programming Banner](https://via.placeholder.com/1200x400?text=Competitive+Programming+Banner)
+![Competitive Programming Banner]()![Competitive Programming Banner](./images/banner.png)
+
 
 ## About Me
 Hello! I'm **Shiva Jee** (Reg. No: 20214288), a passionate problem solver from the CSE department with a knack for tackling algorithmic challenges and optimizing code. I am an **Expert on Codeforces**, a **4-star coder on CodeChef**, and a **Knight on LeetCode**.

@@ -1,6 +1,4 @@
-Bilkul bhai! Main tujhe ek **professional, clean, and eye-catching GitHub README** bana ke deta hoon — jo **resume + portfolio** ke tarah bhi kaam kare.
 
-Tu isme apna introduction, projects, achievements, and skills dikhaye. Yeh template tera GitHub profile (`README.md` in `umangapatel123/umangapatel123` jaisa) ke liye ready hai:
 
 ---
 

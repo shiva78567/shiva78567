@@ -40,10 +40,4 @@ Cross-platform web app with comments, likes, recommendations & monetization mode
 [![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/The_Beast)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/aishwarya2024)
 _“Stay curious. Keep building.”_
-  ✅ How to Use It:
-1. Create a repo: `shiva78567/shiva78567`
-2. Inside it, add a file called `README.md`
-3. Paste this code in that file
-4. Push to GitHub — your profile will now look amazing 🚀
-Let me know if tu chaahta hai isme animation, visitor counter, ya koi aur fun element daalun!
 

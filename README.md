@@ -3,7 +3,7 @@
 🎓 Final Year CSE Undergrad at MNNIT Allahabad  
 💻 Full-Stack Developer | Open Source Contributor | Competitive Programmer  
 🚀 Always building, always learning!
-🚀 About Me
+🚀 About Me:-
 - 🔭 Currently working on: AI & Web-based projects with real-world impact
 - 🌱 Learning: Advanced System Design & DevOps  
 - 🧠 Passionate about: Scalable apps, clean code & community learning  

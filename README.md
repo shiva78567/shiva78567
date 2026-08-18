@@ -21,7 +21,7 @@ I love creating **high-performance platforms** 🏎️ that turn research ideas 
   * Engineered cloning features and high-throughput pipelines with **React** & **Spring Boot**.
   * Automated global budget data sourcing using **AWS EventBridge** and On-Premise Schedulers to ensure high availability and reduce query execution latency.
 * 🌟 **Goldman Sachs | GS Insight Series Participant / Trainee** *(May 2025 – Jun 2025)* 🏅
-  * Selected among the **top 50 participants from 500+ applicants** based on algorithmic problem-solving and system architecture design.
+  * Selected among the **top 2,700 candidates out of 315,126 applicants (<0.9% acceptance rate)** based on algorithmic problem-solving and system architecture design.
 
 ---
 
@@ -44,6 +44,14 @@ I love creating **high-performance platforms** 🏎️ that turn research ideas 
 * 🔥 **Meta Hacker Cup 2024** — Rank **5296 / 22.4k** (Round 2 Qualifier).
 * 🔬 **Axiom 2026 (IISc Bangalore)** — Rank **264 / 450**.
 * 🧠 **Problem Solver** — Solved **400+ problems** across LeetCode (`Gautam_2001`) & Codeforces.
+
+---
+
+### 🧑‍🏫 Leadership & Responsibility
+* 🏆 **Mentor & Coach** — ICPC Asia Amritapuri 2024 (Guided students in competitive programming & problem-solving).
+* 💻 **Coordinator** — Computer Coding Club, MNNIT Allahabad (Jan 2024 – Jun 2024).
+* 🚀 **Campus Ambassador** — Entrepreneurship Development Cell (EDC), IIT Delhi.
+* 🌐 **Web Admin & Dept Rep** — Student Activity Center & Student Mentorship Program, CSE Dept, MNNIT.
 
 ---
 

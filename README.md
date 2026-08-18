@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Shiva Jee**! ⚡
+# 👋 Hi, I'm **Shiva Jee**! ⚡[Profile Views](https://komarev.com/ghpvc/?username=shiva78567&color=green)
 
 ⚙️ **Systems Engineer** | 🌟 **Former Trainee & Summer Analyst @ Goldman Sachs** | ⚔️ **Competitive Programmer** | 🧑‍🏫 **ICPC Mentor**  
 🎓 *B.Tech in Computer Science & Engineering @ MNNIT Allahabad*

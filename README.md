@@ -37,7 +37,7 @@ I love creating **high-performance platforms** 🏎️ that turn research ideas 
 
 ### 🏅 Honors & Achievements
 * 🚀 **FoundingTeams.ai AI Pre-Accelerator** — Selected into the cohort to commercialize the AI Driver Drowsiness Detection system.
-* 🎯 **IIWCPC Finalist / Qualifier** — Selected for the **India International Women Competitive Programming Championship** hosted by **IIT Guwahati**.
+* 🎯 **IIWCPC Qualifier** — Selected for the **India International Women Competitive Programming Championship** hosted by **IIT Guwahati**.
 * ⚔️ **Codeforces Rated Expert** — Global Rank **1362 / 30,000** (Round 966) — Top ~4% globally (`The_Beast`).
 * 🎯 **ICPC Huawei Challenge 2026** — Global Rank **286 / 36,000+**.
 * 🌍 **ICPC Asia-Amritapuri Prelims 2024** — Rank **808**.
